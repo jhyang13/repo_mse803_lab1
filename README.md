@@ -1,5 +1,14 @@
 # repo_mse803
+
+MSE 803 
+
+Name: Jiahui Yang, Mechanical Engineering
+
+Email: jyang753@wisc.edu
+
 Jiahui's homework for Lab1
+
+Let me know if you can have access to my homework or not. ╰(●’◡’●)╮
 
 ## output
 
