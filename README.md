@@ -11,6 +11,10 @@ Jiahui's homework for Lab1
 - bandgap_data_v2.csv
 - generated_features.csv
 
+## answer.pdf
 
+is my answer for all the exercise within Lab1
 
+## intromllab_3.ipynb
 
+is my lab1 Jupyter notebook file
