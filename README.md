@@ -22,7 +22,7 @@ Let me know if you can have access to my homework or not. ╰(●’◡’●)�
 
 ## answer.pdf
 
-is my answer for all the exercise within Lab1
+is my answer for all the exercises within Lab1
 
 ## intromllab_3.ipynb
 
