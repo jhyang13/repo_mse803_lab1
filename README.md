@@ -12,8 +12,8 @@ Let me know if you can have access to my homework or not. ╰(●’◡’●)�
 
 ## Output
 
-- bandgap_data_v3.csv is the data output to csv after exercise 1.5
-- decisiontree_pdf.pdf is the image of the default decision tree
+- **bandgap_data_v3.csv** is the data output to csv after exercise 1.5
+- **decisiontree_pdf.pdf** is the image of the default decision tree
 
 ## resources
 
